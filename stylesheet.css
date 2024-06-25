@@ -1,0 +1,187 @@
+@media screen and (max-width:784px) {
+    .cvContainer{
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .titleSection{
+        width:100%;
+        text-align: left;
+        align-content: flex-start;
+        background-color: grey;
+        color: rgb(150, 33, 33);
+        padding:2%;
+    }
+    .cvBody{
+        display: flex;
+        width: 100%;
+    }
+    #basicInfo{
+        width: calc(100% - 70%);
+    }
+}
+.cvContainer{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.titleSection{
+    width: 100%;
+    text-align: right;
+    align-content: flex-end;
+    background-color: grey;
+    color: white;
+    padding:2%;
+}
+.cvBody{
+    display: flex;
+    justify-content: space-between;
+}
+#basicInfo{
+    width: 30%;
+    padding: 2%;
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: -28%;
+    background-color: rgb(196, 194, 194);
+    border-style: none;
+    border-top-left-radius: 90px;
+    border-top-right-radius:90px;
+}
+img{
+    width: 140px;
+    margin-left: 1%;
+    height: 150px;
+    border-style: none;
+    border-radius: 50%;
+}
+h1{
+    line-height: 10px;
+}
+#firstName{
+font-size: 55px;
+font-family:Constantia;
+font-weight: 200;
+letter-spacing: 4px;
+
+}
+.bold{
+    font-weight: 700;
+}
+#title{
+    font-size: 11px;
+}
+#heading{
+    display: flex;
+justify-content:space-between;
+align-items: center;
+    font-family:sans-serif;
+    margin-right: 5% ;
+    margin-top: -2%;
+    font-size: 12px;
+    line-height: 5px;
+}
+#heading h3{
+    font-weight: 600;
+}
+.year{
+    font-size: 10px;
+}
+#bold{
+    font-weight: 600;
+    font-size: 12px;
+}
+li{
+    margin-top: 2%;
+    font-size: 12px;
+}
+#secondary{
+    margin-top: 10%;
+}
+.skills{
+    margin-top: -5%;
+    margin-left: -10%;
+   
+}
+.info{
+    margin-top: -1%;
+    font-size: 14px;
+}
+.profile{
+    font-size: 13px;
+    margin-top: -1px;
+}
+.experience{
+    display: flex;
+    justify-content:space-around;
+}
+.experience3{
+    display: flex;
+    margin-top: -10%;
+}
+.experience2{
+    display: flex;
+    margin-top: -8%;
+}
+.vl{
+    border-left:1px solid rgb(155, 153, 153);
+    height:170px;                           
+    }
+.vl2{
+    border-left:1px solid rgb(155, 153, 153);
+    height:170px;   
+}
+.workDetails{
+    margin-top: -5%;
+}
+#year{
+    font-size: small;
+}
+.workDetails h5{
+    margin-top: -5%;
+}
+.duties{
+    margin-top: -5%;
+    font-size: 14px;
+    margin-left: -6%;
+}
+.workDetails{
+    margin-left: 2%;
+}
+.workPosition{
+    font-family:sans-serif; 
+    font-size: 13px;
+}
+.workPosition1{
+    font-family:sans-serif; 
+    font-size: 13px;
+}
+.reference{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -4%;
+    font-size: 12px;
+    }
+    .ref{
+      margin-top: -2%;
+      height: 150px;
+    
+    }
+    .ref p{
+      margin-top: -5%;
+    
+    }
+    .ref h6{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1px;
+    margin-bottom: 10%;
+  
+    }
+    
+      .refre{
+    padding-top: 9px;
+        font-family:sans-serif; 
+       
+      }
+#achievement{
+    margin-top: 2%;
+}
